@@ -1,5 +1,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=18A4F7&size=40&width=900&height=100&lines=Welcome+to+my+page!)
+<p align="center">
+  <img src="https://github.com/Krithika-ananth/Krithika-ananth/blob/main/banner.png" alt="Banner" width="100%" />
+</p>
 # Hi, I'm Krithika✨<br><br>🎓 B.Tech Information Technology Student at MIT, Chennai  <br>💡 Passionate about Full Stack Development, AI Projects, and Problem Solving  <br>🚀 Exploring Web Development, DBMS, and Creative Tech Ideas  <br>🌱 Currently learning React, Node.js, and Advanced DSA  <br>💫 Love building projects that combine creativity with real-world impact
 
 
@@ -43,8 +46,15 @@
 ![](https://github-readme-stats.shion.dev/api?username=Krithika-ananth&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Krithika-ananth&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Krithika-ananth&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Krithika-ananth&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
-![snake](https://github.com/anirudhr09/anirudhr09/blob/anirudhr09-patch-1/github-contribution-grid-snake.svg)
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Krithika-ananth/Krithika-ananth/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/krithika-a-74k" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -52,5 +62,5 @@
 </p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+> "Code. Create. Innovate. Repeat." ✨
 
