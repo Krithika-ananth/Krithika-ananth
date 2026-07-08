@@ -50,8 +50,12 @@
 
 ## 🐍 Contribution Graph
 
-![snake](https://github.com/anirudhr09/anirudhr09/blob/anirudhr09-patch-1/github-contribution-grid-snake.svg)
-
+![snake](https://github.com/Krithika-ananth/Krithika-ananth/blob/main/github-contribution-grid-snake.svg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/krithika-a-74k" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
