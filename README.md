@@ -50,9 +50,7 @@
 
 ## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://github.com/Krithika-ananth/Krithika-ananth/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
+![snake](https://github.com/anirudhr09/anirudhr09/blob/anirudhr09-patch-1/github-contribution-grid-snake.svg)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
