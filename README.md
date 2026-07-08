@@ -48,14 +48,7 @@
 ![](https://streak-stats.demolab.com/?user=Krithika-ananth&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Krithika-ananth&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-##  Contribution Graph
 
-![snake](https://github.com/Krithika-ananth/Krithika-ananth/blob/main/github-contribution-grid-snake.svg)
-<p align="center">
-  <a href="https://www.linkedin.com/in/krithika-a-74k" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
