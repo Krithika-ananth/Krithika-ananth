@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/Krithika-ananth/Krithika-ananth/blob/main/banner.png" alt="Banner" width="100%" />
 </p>
-# Hi, I'm Krithika✨<br><br>🎓 B.Tech Information Technology Student at MIT, Chennai  <br>💡 Passionate about Full Stack Development, AI Projects, and Problem Solving  <br>🚀 Exploring Web Development, DBMS, and Creative Tech Ideas  <br>🌱 Currently learning React, Node.js, and Advanced DSA  <br>💫 Love building projects that combine creativity with real-world impact
+Hi, I'm Krithika✨<br><br>🎓 B.Tech Information Technology Student at MIT, Chennai  <br>💡 Passionate about Full Stack Development, AI Projects, and Problem Solving  <br>🚀 Exploring Web Development, DBMS, and Creative Tech Ideas  <br>🌱 Currently learning React, Node.js, and Advanced DSA  <br>💫 Love building projects that combine creativity with real-world impact
 <br><i>"Code. Create. Innovate. Repeat..."</i>
 
 
